@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Underline below the navbar */
+a.active hr{
+    display: block;
+}
